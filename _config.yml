@@ -20,7 +20,7 @@ url:                   "https://jihye0325.github.io"
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Developer Jihye Sung
+title:                 Jihye Sung
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,8 +28,7 @@ description:           >
   성지혜 이력서 & 포트폴리오 블로그입니다.
 
 # A shorter description for the sidebar.
-tagline:      안녕하세요. 신입개발자 성지혜입니다.<br>
-              빠른 적응력과 성실함으로 믿고 맡길 수 있는 신입사원이 되겠습니다.<br>
+tagline:      안녕하세요. 신입개발자 성지혜입니다.
 
 # A list of keywords for your blog
 keywords:              [RESUME, PORTFOLIO]
