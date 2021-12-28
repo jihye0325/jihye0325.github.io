@@ -8,8 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    안녕하세요. 신입개발자 성지혜입니다.
-    빠른 적응력과 성실함으로 믿고 맡길 수 있는 신입사원이 되겠습니다.
+    안녕하세요. 신입개발자 성지혜입니다.<br>
+    빠른 적응력과 성실함으로 믿고 맡길 수 있는 신입사원이 되겠습니다.<br>
     [이력서 확인](/assets/resume.pdf)
 
   # This photo will be used in the about section
